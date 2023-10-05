@@ -1,0 +1,3 @@
+I am creating a test repository and practicing my git commands.
+The lesson I am using is through TheOdinProject.
+So far all of the lessons have been very well structured and informative.
